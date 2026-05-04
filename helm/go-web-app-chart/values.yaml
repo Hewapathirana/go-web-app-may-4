@@ -1,0 +1,3 @@
+image:
+  #this tag value will be updated from ci/cd
+  tag: "v1"
